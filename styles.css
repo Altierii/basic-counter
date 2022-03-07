@@ -1,0 +1,33 @@
+html, body {
+  text-align: center;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #7122c3;
+}
+
+.main-box {
+  border: 5px solid black;
+  padding: 15px;
+  border-radius: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+}
+
+button {
+  background-color: #19bbd8;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #0638dd;
+  border: none;
+  transition: 1s;
+  margin: 10px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: #74fff3;
+}
+
+button:hover {
+  background-color: #3acbdf;
+}
